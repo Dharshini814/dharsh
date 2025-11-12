@@ -1,6 +1,6 @@
-Streamlit 
-Pandas 
-Seaborn 
-Matplotlib 
-FPDF 
-BytesIO
+streamlit
+pandas
+seaborn
+matplotlib
+fpdf
+
